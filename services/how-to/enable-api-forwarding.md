@@ -1,4 +1,4 @@
----
+-Tapi1962/metamask-docs--
 description: Enable API forwarding
 sidebar_position: 7
 ---
